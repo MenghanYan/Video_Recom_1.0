@@ -43,7 +43,7 @@ def b_hot_aiqiyi_label():
 #
 if __name__ == '__main__':
     # app.run(host='0.0.0.0', port=5000)
-    app.run(port=4100)
+    app.run()
 #print b_hot_aiqiyi_label()
 
 
