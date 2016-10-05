@@ -20,7 +20,6 @@ Flask-SQLAlchemy==2.1
 Flask-WTF==0.12
 functools32==3.2.3.post2
 genson==0.1.0
-GraphLab-Create==1.10
 itsdangerous==0.24
 Jinja2==2.8
 jmespath==0.5.0
