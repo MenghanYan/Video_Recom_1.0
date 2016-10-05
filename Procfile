@@ -1,1 +1,1 @@
-web: python Video_Recom.py
+web: gunicorn Video_Recom:app --log-file -
